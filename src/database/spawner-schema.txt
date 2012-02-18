@@ -1,0 +1,9 @@
+Id,Numbers,Sequence,1|0|1
+First,Human,First Name,-1|-1
+Last,Human,Last Name,-1|-1
+Street,Human,Street Address
+City,Human,City
+State,Human,State,0
+Zip,Human,US ZIP Code (#####)
+Email,Human,E-Mail Address (name@domain.tld)
+Phone,Human,Phone Number (###-###-####)

@@ -1,0 +1,62 @@
+PetaPocoPage Example
+Copyright 2012 Todd A. Wood, Wood Consulting Practice, LLC (http://www.woodcp.com).
+All rights reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+======================================================================================
+
+PetaPoco v4.0.3 - A Tiny ORMish thing for your POCO's.
+Copyright © 2011 Topten Software.  All Rights Reserved.
+
+Apache License 2.0 - http://www.toptensoftware.com/petapoco/license
+
+Special thanks to Rob Conery (@robconery) for original inspiration (ie:Massive) and for
+use of Subsonic's T4 templates, Rob Sullivan (@DataChomp) for hard core DBA advice
+and Adam Schroder (@schotime) for lots of suggestions, improvements and Oracle support
+
+======================================================================================
+
+Bootstrap v2.0.0
+Copyright 2012 Twitter, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+======================================================================================
+
+jQuery v1.7.1
+Copyright 2010 The jQuery Project
+
+http://jquery.org/license/
+
+You may use any jQuery project under the terms of either the MIT License or the GNU General Public License (GPL) Version 2.
+
+======================================================================================
+
+DataTables 1.9.0
+Copyright 2008-2012 Allan Jardine
+
+http://datatables.net/license_gpl2
+http://datatables.net/license_bsd
+
+DataTables is dual licensed under the GPL v2 license or a BSD (3-point) license.
