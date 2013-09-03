@@ -42,7 +42,6 @@ namespace PetaPocoPage.Helpers
 		{
 			return (from k in request.Params.AllKeys
 					where k.StartsWith(keyPrefix)
-					where k.StartsWith(keyPrefix)
 					orderby int.Parse(k.Replace(keyPrefix, string.Empty))
 					select (T)Convert.ChangeType(request.Params[k], typeof(T))
 				   ).ToList();
